@@ -1,0 +1,10 @@
+A := B;B := D;
+//asdf
+
+FUNC(B);
+FUNC(B AND C, D = E);
+FUNC(B := C);
+FUNC(B, C => D);
+
+
+

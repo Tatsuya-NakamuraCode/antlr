@@ -1,0 +1,761 @@
+﻿  STtoScript.cpp
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Exceptions.h(15,25): warning C4251:  'antlr4::RuntimeException::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::RuntimeException' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Exceptions.h(75,25): warning C4251:  'antlr4::IOException::_message': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::IOException' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\IntStream.h(41,49): warning C4251:  'antlr4::IntStream::UNKNOWN_SOURCE_NAME': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::IntStream' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(19,22): warning C4251:  'antlr4::ANTLRInputStream::_data': class 'std::basic_string<int,std::char_traits<_Elem>,std::allocator<_Elem>>' は __export キーワードを使って class 'antlr4::ANTLRInputStream' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(19,22): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(19,22): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(19,22): warning C4251:             _Elem=int
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(19,22): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(64): message :  'std::basic_string<int,std::char_traits<_Elem>,std::allocator<_Elem>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(64): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(64): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(64): message :             _Elem=int
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(64): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRInputStream.h(26,21): warning C4251:  'antlr4::ANTLRInputStream::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::ANTLRInputStream' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ANTLRFileStream.h(17,26): warning C4251:  'antlr4::ANTLRFileStream::_fileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::ANTLRFileStream' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33,37): warning C4251:  'antlr4::misc::IntervalSet::_intervals': class 'std::vector<antlr4::misc::Interval,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::misc::IntervalSet' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33,37): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33,37): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33,37): warning C4251:             _Ty=antlr4::misc::Interval
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33,37): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33): message :  'std::vector<antlr4::misc::Interval,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33): message :             _Ty=antlr4::misc::Interval
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(33): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462,54): warning C4251:  'antlr4::DefaultErrorStrategy::_errorSymbols': class 'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' は __export キーワードを使って class 'antlr4::DefaultErrorStrategy' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462,54): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462,54): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462,54): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462,54): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(108,48): warning C4251:  'antlr4::BufferedTokenStream::_tokens': class 'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' は __export キーワードを使って class 'antlr4::BufferedTokenStream' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(108,48): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(108,48): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(108,48): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(108,48): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonToken.h(18,69): warning C4251:  'antlr4::CommonToken::EMPTY_SOURCE': struct 'std::pair<antlr4::TokenSource *,antlr4::CharStream *>' は __export キーワードを使って class 'antlr4::CommonToken' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonToken.h(18): message :  'std::pair<antlr4::TokenSource *,antlr4::CharStream *>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonToken.h(53,51): warning C4251:  'antlr4::CommonToken::_source': struct 'std::pair<antlr4::TokenSource *,antlr4::CharStream *>' は __export キーワードを使って class 'antlr4::CommonToken' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonToken.h(18): message :  'std::pair<antlr4::TokenSource *,antlr4::CharStream *>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonToken.h(61,22): warning C4251:  'antlr4::CommonToken::_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::CommonToken' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\CommonTokenFactory.h(25,56): warning C4251:  'antlr4::CommonTokenFactory::DEFAULT': class 'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' は __export キーワードを使って class 'antlr4::CommonTokenFactory' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\FailedPredicateException.h(29,27): warning C4251:  'antlr4::FailedPredicateException::_predicate': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::FailedPredicateException' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38,38): warning C4251:  'antlr4::tree::ParseTree::children': class 'std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::tree::ParseTree' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38,38): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38,38): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38,38): warning C4251:             _Ty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38,38): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :  'std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :             _Ty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(97,40): warning C4251:  'antlr4::tree::ParseTreeTracker::_allocated': class 'std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::tree::ParseTreeTracker' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(97,40): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(97,40): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(97,40): warning C4251:             _Ty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(97,40): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :  'std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :             _Ty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTree.h(38): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserRuleContext.h(66,33): warning C4251:  'antlr4::ParserRuleContext::exception': class 'std::exception_ptr' は __export キーワードを使って class 'antlr4::ParserRuleContext' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\exception(212): message :  'std::exception_ptr' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18,46): warning C4251:  'antlr4::ProxyErrorListener::_delegates': class 'std::set<antlr4::ANTLRErrorListener *,std::less<_Kty>,std::allocator<_Kty>>' は __export キーワードを使って class 'antlr4::ProxyErrorListener' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18,46): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18,46): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18,46): warning C4251:             _Kty=antlr4::ANTLRErrorListener *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18,46): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18): message :  'std::set<antlr4::ANTLRErrorListener *,std::less<_Kty>,std::allocator<_Kty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18): message :             _Kty=antlr4::ANTLRErrorListener *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ProxyErrorListener.h(18): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(150,22): warning C4251:  'antlr4::Recognizer::_mutex': class 'std::mutex' は __export キーワードを使って class 'antlr4::Recognizer' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\mutex(82): message :  'std::mutex' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:  'antlr4::Recognizer::_tokenTypeMapCache': class 'std::map<const antlr4::dfa::Vocabulary *,std::map<std::string,size_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>,std::less<const antlr4::dfa::Vocabulary*>,std::allocator<std::pair<const antlr4::dfa::Vocabulary*const ,std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>>>>' は __export キーワードを使って class 'antlr4::Recognizer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:             _Kty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153,94): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :  'std::map<const antlr4::dfa::Vocabulary *,std::map<std::string,size_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>,std::less<const antlr4::dfa::Vocabulary*>,std::allocator<std::pair<const antlr4::dfa::Vocabulary*const ,std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :             _Kty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(153): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:  'antlr4::Recognizer::_ruleIndexMapCache': class 'std::map<std::vector<std::string,std::allocator<_Ty>>,std::map<std::string,size_t,std::less<_Ty>,std::allocator<std::pair<const _Kty,unsigned int>>>,std::less<std::vector<_Ty,std::allocator<_Ty>>>,std::allocator<std::pair<const std::vector<_Ty,std::allocator<_Ty>>,std::map<_Kty,size_t,std::less<_Ty>,std::allocator<std::pair<const _Kty,unsigned int>>>>>>' は __export キーワードを使って class 'antlr4::Recognizer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:             _Ty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154,96): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :  'std::map<std::vector<std::string,std::allocator<_Ty>>,std::map<std::string,size_t,std::less<_Ty>,std::allocator<std::pair<const _Kty,unsigned int>>>,std::less<std::vector<_Ty,std::allocator<_Ty>>>,std::allocator<std::pair<const std::vector<_Ty,std::allocator<_Ty>>,std::map<_Kty,size_t,std::less<_Ty>,std::allocator<std::pair<const _Kty,unsigned int>>>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :             _Ty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Recognizer.h(154): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(34,44): warning C4251:  'antlr4::Lexer::_factory': class 'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' は __export キーワードを使って class 'antlr4::Lexer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(48,33): warning C4251:  'antlr4::Lexer::token': class 'std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>' は __export キーワードを使って class 'antlr4::Lexer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(48,33): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(48,33): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(48,33): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(48,33): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(75,34): warning C4251:  'antlr4::Lexer::modeStack': class 'std::vector<size_t,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::Lexer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(75,34): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(75,34): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(75,34): warning C4251:             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(75,34): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :  'std::vector<size_t,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Lexer.h(189,22): warning C4251:  'antlr4::Lexer::_text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::Lexer' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23,35): warning C4251:  'antlr4::atn::ATN::states': class 'std::vector<antlr4::atn::ATNState *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23,35): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23,35): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23,35): warning C4251:             _Ty=antlr4::atn::ATNState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23,35): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23): message :  'std::vector<antlr4::atn::ATNState *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23): message :             _Ty=antlr4::atn::ATNState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(23): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28,49): warning C4251:  'antlr4::atn::ATN::decisionToState': class 'std::vector<antlr4::atn::DecisionState *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28,49): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28,49): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28,49): warning C4251:             _Ty=antlr4::atn::DecisionState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28,49): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28): message :  'std::vector<antlr4::atn::DecisionState *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28): message :             _Ty=antlr4::atn::DecisionState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(28): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31,51): warning C4251:  'antlr4::atn::ATN::ruleToStartState': class 'std::vector<antlr4::atn::RuleStartState *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31,51): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31,51): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31,51): warning C4251:             _Ty=antlr4::atn::RuleStartState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31,51): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31): message :  'std::vector<antlr4::atn::RuleStartState *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31): message :             _Ty=antlr4::atn::RuleStartState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(31): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34,49): warning C4251:  'antlr4::atn::ATN::ruleToStopState': class 'std::vector<antlr4::atn::RuleStopState *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34,49): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34,49): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34,49): warning C4251:             _Ty=antlr4::atn::RuleStopState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34,49): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34): message :  'std::vector<antlr4::atn::RuleStopState *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34): message :             _Ty=antlr4::atn::RuleStopState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(34): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(49,40): warning C4251:  'antlr4::atn::ATN::ruleToTokenType': class 'std::vector<size_t,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(49,40): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(49,40): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(49,40): warning C4251:             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(49,40): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :  'std::vector<size_t,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53,47): warning C4251:  'antlr4::atn::ATN::lexerActions': class 'std::vector<std::shared_ptr<antlr4::atn::LexerAction>,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53,47): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53,47): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53,47): warning C4251:             _Ty=std::shared_ptr<antlr4::atn::LexerAction>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53,47): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :  'std::vector<std::shared_ptr<antlr4::atn::LexerAction>,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :             _Ty=std::shared_ptr<antlr4::atn::LexerAction>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55,53): warning C4251:  'antlr4::atn::ATN::modeToStartState': class 'std::vector<antlr4::atn::TokensStartState *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55,53): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55,53): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55,53): warning C4251:             _Ty=antlr4::atn::TokensStartState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55,53): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55): message :  'std::vector<antlr4::atn::TokensStartState *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55): message :             _Ty=antlr4::atn::TokensStartState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(55): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(108,30): warning C4251:  'antlr4::atn::ATN::_mutex': class 'std::mutex' は __export キーワードを使って class 'antlr4::atn::ATN' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\mutex(82): message :  'std::mutex' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(103,61): warning C4251:  'antlr4::atn::ATNState::serializationNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATNState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(103,61): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(103,61): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(103,61): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(103,61): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114,41): warning C4251:  'antlr4::atn::ATNState::transitions': class 'std::vector<antlr4::atn::Transition *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATNState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114,41): warning C4251:             _Ty=antlr4::atn::Transition *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114): message :  'std::vector<antlr4::atn::Transition *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114): message :             _Ty=antlr4::atn::Transition *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(114): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNState.h(127,50): warning C4251:  'antlr4::atn::ATNState::_nextTokenUpdated': struct 'std::atomic<bool>' は __export キーワードを使って class 'antlr4::atn::ATNState' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\atomic(1883): message :  'std::atomic<bool>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(25,46): warning C4251:  'antlr4::atn::PredictionContext::EMPTY': class 'std::shared_ptr<antlr4::atn::PredictionContext>' は __export キーワードを使って class 'antlr4::atn::PredictionContext' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::PredictionContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(187,49): warning C4251:  'antlr4::dfa::Vocabulary::_literalNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::dfa::Vocabulary' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(187,49): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(187,49): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(187,49): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(187,49): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(188,50): warning C4251:  'antlr4::dfa::Vocabulary::_symbolicNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::dfa::Vocabulary' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(188,50): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(188,50): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(188,50): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(188,50): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(189,49): warning C4251:  'antlr4::dfa::Vocabulary::_displayNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::dfa::Vocabulary' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(189,49): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(189,49): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(189,49): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Vocabulary.h(189,49): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(36,39): warning C4251:  'antlr4::LexerInterpreter::_grammarFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::LexerInterpreter' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(40,41): warning C4251:  'antlr4::LexerInterpreter::_tokenNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::LexerInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(40,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(40,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(40,41): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(40,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44,41): warning C4251:  'antlr4::LexerInterpreter::_decisionToDFA': class 'std::vector<antlr4::dfa::DFA,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::LexerInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44,41): warning C4251:             _Ty=antlr4::dfa::DFA
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :  'std::vector<antlr4::dfa::DFA,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :             _Ty=antlr4::dfa::DFA
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(46,52): warning C4251:  'antlr4::LexerInterpreter::_sharedContextCache': class 'std::unordered_set<std::shared_ptr<antlr4::atn::PredictionContext>,antlr4::atn::PredictionContextHasher,antlr4::atn::PredictionContextComparer,std::allocator<_Kty>>' は __export キーワードを使って class 'antlr4::LexerInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(46,52): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(46,52): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(46,52): warning C4251:             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(46,52): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :  'std::unordered_set<std::shared_ptr<antlr4::atn::PredictionContext>,antlr4::atn::PredictionContextHasher,antlr4::atn::PredictionContextComparer,std::allocator<_Kty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19,40): warning C4251:  'antlr4::atn::ATNConfigSet::configs': class 'std::vector<std::shared_ptr<antlr4::atn::ATNConfig>,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATNConfigSet' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19,40): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19,40): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19,40): warning C4251:             _Ty=std::shared_ptr<antlr4::atn::ATNConfig>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19,40): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19): message :  'std::vector<std::shared_ptr<antlr4::atn::ATNConfig>,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19): message :             _Ty=std::shared_ptr<antlr4::atn::ATNConfig>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(19): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:  'antlr4::atn::ATNConfigSet::_configLookup': class 'std::unordered_map<size_t,antlr4::atn::ATNConfig *,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' は __export キーワードを使って class 'antlr4::atn::ATNConfigSet' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:             _Kty=size_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:             _Ty=antlr4::atn::ATNConfig *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104,58): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :  'std::unordered_map<size_t,antlr4::atn::ATNConfig *,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :             _Kty=size_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :             _Ty=antlr4::atn::ATNConfig *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(104): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(23,47): warning C4251:  'antlr4::ListTokenSource::tokens': class 'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' は __export キーワードを使って class 'antlr4::ListTokenSource' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(23,47): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(23,47): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(23,47): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(23,47): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(32,33): warning C4251:  'antlr4::ListTokenSource::sourceName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::ListTokenSource' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ListTokenSource.h(43,74): warning C4251:  'antlr4::ListTokenSource::_factory': class 'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' は __export キーワードを使って class 'antlr4::ListTokenSource' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::TokenFactory<antlr4::CommonToken>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(412,40): warning C4251:  'antlr4::Parser::_errHandler': class 'std::shared_ptr<antlr4::ANTLRErrorStrategy>' は __export キーワードを使って class 'antlr4::Parser' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::ANTLRErrorStrategy>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(421,38): warning C4251:  'antlr4::Parser::_precedenceStack': class 'std::vector<ssize_t,std::allocator<_Elem>>' は __export キーワードを使って class 'antlr4::Parser' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(421,38): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(421,38): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(421,38): warning C4251:             _Elem=int
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(421,38): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(169): message :  'std::vector<ssize_t,std::allocator<_Elem>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(169): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(169): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(169): message :             _Elem=int
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(169): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(434,59): warning C4251:  'antlr4::Parser::_parseListeners': class 'std::vector<antlr4::tree::ParseTreeListener *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::Parser' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(434,59): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(434,59): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(434,59): warning C4251:             _Ty=antlr4::tree::ParseTreeListener *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(434,59): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(128): message :  'std::vector<antlr4::tree::ParseTreeListener *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(128): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(128): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(128): message :             _Ty=antlr4::tree::ParseTreeListener *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(128): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:  'antlr4::Parser::bypassAltsAtnCache': class 'std::map<std::vector<uint16_t,std::allocator<_Ty>>,antlr4::atn::ATN,std::less<_Kty>,std::allocator<std::pair<const _Kty,antlr4::atn::ATN>>>' は __export キーワードを使って class 'antlr4::Parser' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:             _Ty=uint16_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:             _Kty=std::vector<uint16_t,std::allocator<uint16_t>>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455,72): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :  'std::map<std::vector<uint16_t,std::allocator<_Ty>>,antlr4::atn::ATN,std::less<_Kty>,std::allocator<std::pair<const _Kty,antlr4::atn::ATN>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :             _Ty=uint16_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :             _Kty=std::vector<uint16_t,std::allocator<uint16_t>>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\Parser.h(455): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(112,39): warning C4251:  'antlr4::ParserInterpreter::_grammarFileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(113,41): warning C4251:  'antlr4::ParserInterpreter::_tokenNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(113,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(113,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(113,41): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(113,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(116,40): warning C4251:  'antlr4::ParserInterpreter::_ruleNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(116,40): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(116,40): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(116,40): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(116,40): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(118,41): warning C4251:  'antlr4::ParserInterpreter::_decisionToDFA': class 'std::vector<antlr4::dfa::DFA,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(118,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(118,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(118,41): warning C4251:             _Ty=antlr4::dfa::DFA
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(118,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :  'std::vector<antlr4::dfa::DFA,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :             _Ty=antlr4::dfa::DFA
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\LexerInterpreter.h(44): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(119,52): warning C4251:  'antlr4::ParserInterpreter::_sharedContextCache': class 'std::unordered_set<std::shared_ptr<antlr4::atn::PredictionContext>,antlr4::atn::PredictionContextHasher,antlr4::atn::PredictionContextComparer,std::allocator<_Kty>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(119,52): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(119,52): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(119,52): warning C4251:             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(119,52): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :  'std::unordered_set<std::shared_ptr<antlr4::atn::PredictionContext>,antlr4::atn::PredictionContextHasher,antlr4::atn::PredictionContextComparer,std::allocator<_Kty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(19): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134,75): warning C4251:  'antlr4::ParserInterpreter::_parentContextStack': class 'std::stack<std::pair<antlr4::ParserRuleContext *,size_t>,std::deque<_Ty,std::allocator<_Ty>>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134,75): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134,75): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134,75): warning C4251:             _Ty=std::pair<antlr4::ParserRuleContext *,size_t>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134,75): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134): message :  'std::stack<std::pair<antlr4::ParserRuleContext *,size_t>,std::deque<_Ty,std::allocator<_Ty>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134): message :             _Ty=std::pair<antlr4::ParserRuleContext *,size_t>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(134): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(148,54): warning C4251:  'antlr4::ParserInterpreter::_overrideDecisionRoot': class 'std::shared_ptr<antlr4::InterpreterRuleContext>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::InterpreterRuleContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(176,39): warning C4251:  'antlr4::ParserInterpreter::_errorToken': class 'std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>' は __export キーワードを使って class 'antlr4::ParserInterpreter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(176,39): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(176,39): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(176,39): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\ParserInterpreter.h(176,39): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\RuntimeMetaData.h(72,37): warning C4251:  'antlr4::RuntimeMetaData::VERSION': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::RuntimeMetaData' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(88,50): warning C4251:  'antlr4::TokenStreamRewriter::DEFAULT_PROGRAM_NAME': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::TokenStreamRewriter' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:  'antlr4::TokenStreamRewriter::_programs': class 'std::map<std::string,std::vector<antlr4::TokenStreamRewriter::RewriteOperation *,std::allocator<_Ty>>,std::less<_Kty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>' は __export キーワードを使って class 'antlr4::TokenStreamRewriter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:             _Ty=antlr4::TokenStreamRewriter::RewriteOperation *,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211,68): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :  'std::map<std::string,std::vector<antlr4::TokenStreamRewriter::RewriteOperation *,std::allocator<_Ty>>,std::less<_Kty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :             _Ty=antlr4::TokenStreamRewriter::RewriteOperation *,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(211): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:  'antlr4::TokenStreamRewriter::_lastRewriteTokenIndexes': class 'std::map<std::string,size_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' は __export キーワードを使って class 'antlr4::TokenStreamRewriter' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:             _Kty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\TokenStreamRewriter.h(215,59): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :  'std::map<std::string,size_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :             _Kty=std::string,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(13): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedCharStream.h(19,21): warning C4251:  'antlr4::UnbufferedCharStream::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::UnbufferedCharStream' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedCharStream.h(59,25): warning C4251:  'antlr4::UnbufferedCharStream::_data': class 'std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>' は __export キーワードを使って class 'antlr4::UnbufferedCharStream' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4349): message :  'std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedTokenStream.h(60,48): warning C4251:  'antlr4::UnbufferedTokenStream::_tokens': class 'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' は __export キーワードを使って class 'antlr4::UnbufferedTokenStream' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedTokenStream.h(60,48): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedTokenStream.h(60,48): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedTokenStream.h(60,48): warning C4251:             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\UnbufferedTokenStream.h(60,48): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :  'std::vector<std::unique_ptr<antlr4::Token,std::default_delete<_Ty>>,std::allocator<std::unique_ptr<_Ty,std::default_delete<_Ty>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :             _Ty=antlr4::Token
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\DefaultErrorStrategy.h(462): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfig.h(48,35): warning C4251:  'antlr4::atn::ATNConfig::context': class 'std::shared_ptr<antlr4::atn::PredictionContext>' は __export キーワードを使って class 'antlr4::atn::ATNConfig' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::PredictionContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfig.h(76,41): warning C4251:  'antlr4::atn::ATNConfig::semanticContext': class 'std::shared_ptr<antlr4::atn::SemanticContext>' は __export キーワードを使って class 'antlr4::atn::ATNConfig' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::SemanticContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSerializer.h(55,41): warning C4251:  'antlr4::atn::ATNSerializer::_tokenNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ATNSerializer' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSerializer.h(55,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSerializer.h(55,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSerializer.h(55,41): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSerializer.h(55,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSimulator.h(19,42): warning C4251:  'antlr4::atn::ATNSimulator::ERROR': class 'std::shared_ptr<antlr4::dfa::DFAState>' は __export キーワードを使って class 'antlr4::atn::ATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::dfa::DFAState>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSimulator.h(59,60): warning C4251:  'antlr4::atn::ATNSimulator::_stateLock': class 'antlrcpp::SingleWriteMultipleReadLock' は __export キーワードを使って class 'antlr4::atn::ATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(61): message :  'antlrcpp::SingleWriteMultipleReadLock' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNSimulator.h(60,59): warning C4251:  'antlr4::atn::ATNSimulator::_edgeLock': class 'antlrcpp::SingleWriteMultipleReadLock' は __export キーワードを使って class 'antlr4::atn::ATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\support\CPPUtils.h(61): message :  'antlrcpp::SingleWriteMultipleReadLock' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\Transition.h(42,61): warning C4251:  'antlr4::atn::Transition::serializationNames': class 'std::vector<std::string,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::Transition' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\Transition.h(42,61): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\Transition.h(42,61): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\Transition.h(42,61): warning C4251:             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\Transition.h(42,61): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :  'std::vector<std::string,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :             _Ty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\misc\IntervalSet.h(157): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(23,54): warning C4251:  'antlr4::atn::ArrayPredictionContext::parents': class 'std::vector<std::shared_ptr<antlr4::atn::PredictionContext>,std::allocator<_Kty>>' は __export キーワードを使って class 'antlr4::atn::ArrayPredictionContext' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(23,54): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(23,54): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(23,54): warning C4251:             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(23,54): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(88): message :  'std::vector<std::shared_ptr<antlr4::atn::PredictionContext>,std::allocator<_Kty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(88): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(88): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(88): message :             _Kty=std::shared_ptr<antlr4::atn::PredictionContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(88): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(26,43): warning C4251:  'antlr4::atn::ArrayPredictionContext::returnStates': class 'std::vector<size_t,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ArrayPredictionContext' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(26,43): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(26,43): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(26,43): warning C4251:             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ArrayPredictionContext.h(26,43): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :  'std::vector<size_t,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :             _Ty=size_t
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\BufferedTokenStream.h(60): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredicateEvalInfo.h(23,38): warning C4251:  'antlr4::atn::PredicateEvalInfo::semctx': class 'std::shared_ptr<antlr4::atn::SemanticContext>' は __export キーワードを使って class 'antlr4::atn::PredicateEvalInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::SemanticContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(84,45): warning C4251:  'antlr4::atn::DecisionInfo::SLL_MaxLookEvent': class 'std::shared_ptr<antlr4::atn::LookaheadEventInfo>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::LookaheadEventInfo>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(115,44): warning C4251:  'antlr4::atn::DecisionInfo::LL_MaxLookEvent': class 'std::shared_ptr<antlr4::atn::LookaheadEventInfo>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::LookaheadEventInfo>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122,61): warning C4251:  'antlr4::atn::DecisionInfo::contextSensitivities': class 'std::vector<antlr4::atn::ContextSensitivityInfo,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122,61): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122,61): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122,61): warning C4251:             _Ty=antlr4::atn::ContextSensitivityInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122,61): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122): message :  'std::vector<antlr4::atn::ContextSensitivityInfo,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122): message :             _Ty=antlr4::atn::ContextSensitivityInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(122): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130,34): warning C4251:  'antlr4::atn::DecisionInfo::errors': class 'std::vector<antlr4::atn::ErrorInfo,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130,34): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130,34): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130,34): warning C4251:             _Ty=antlr4::atn::ErrorInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130,34): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130): message :  'std::vector<antlr4::atn::ErrorInfo,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130): message :             _Ty=antlr4::atn::ErrorInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(130): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137,43): warning C4251:  'antlr4::atn::DecisionInfo::ambiguities': class 'std::vector<antlr4::atn::AmbiguityInfo,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137,43): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137,43): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137,43): warning C4251:             _Ty=antlr4::atn::AmbiguityInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137,43): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137): message :  'std::vector<antlr4::atn::AmbiguityInfo,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137): message :             _Ty=antlr4::atn::AmbiguityInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(137): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145,50): warning C4251:  'antlr4::atn::DecisionInfo::predicateEvals': class 'std::vector<antlr4::atn::PredicateEvalInfo,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::DecisionInfo' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145,50): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145,50): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145,50): warning C4251:             _Ty=antlr4::atn::PredicateEvalInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145,50): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145): message :  'std::vector<antlr4::atn::PredicateEvalInfo,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145): message :             _Ty=antlr4::atn::PredicateEvalInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\DecisionInfo.h(145): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SingletonPredictionContext.h(20,40): warning C4251:  'antlr4::atn::SingletonPredictionContext::parent': class 'std::shared_ptr<antlr4::atn::PredictionContext>' は __export キーワードを使って class 'antlr4::atn::SingletonPredictionContext' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::PredictionContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNConfig.h(37,56): warning C4251:  'antlr4::atn::LexerATNConfig::_lexerActionExecutor': class 'std::shared_ptr<antlr4::atn::LexerActionExecutor>' は __export キーワードを使って class 'antlr4::atn::LexerATNConfig' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::LexerActionExecutor>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(82,25): warning C4251:  'antlr4::atn::LexerATNSimulator::_prevAccept': class 'antlr4::atn::LexerATNSimulator::SimState' は __export キーワードを使って class 'antlr4::atn::LexerATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(18): message :  'antlr4::atn::LexerATNSimulator::SimState' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(20,105): warning C4251:  'std::enable_shared_from_this<antlr4::atn::LexerActionExecutor>::_Wptr': class 'std::weak_ptr<_Ty>' は __export キーワードを使って class 'std::enable_shared_from_this<antlr4::atn::LexerActionExecutor>' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(20,105): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(20,105): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(20,105): warning C4251:             _Ty=antlr4::atn::LexerActionExecutor
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(20,105): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :  'std::weak_ptr<_Ty>' の宣言を確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :             _Ty=antlr4::atn::LexerActionExecutor
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(105,54): warning C4251:  'antlr4::atn::LexerActionExecutor::_lexerActions': class 'std::vector<std::shared_ptr<antlr4::atn::LexerAction>,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::LexerActionExecutor' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(105,54): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(105,54): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(105,54): warning C4251:             _Ty=std::shared_ptr<antlr4::atn::LexerAction>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerActionExecutor.h(105,54): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :  'std::vector<std::shared_ptr<antlr4::atn::LexerAction>,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :             _Ty=std::shared_ptr<antlr4::atn::LexerAction>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATN.h(53): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerIndexedCustomAction.h(77,35): warning C4251:  'antlr4::atn::LexerIndexedCustomAction::_action': class 'std::shared_ptr<antlr4::atn::LexerAction>' は __export キーワードを使って class 'antlr4::atn::LexerIndexedCustomAction' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::LexerAction>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(56,47): warning C4251:  'antlr4::dfa::DFAState::configs': class 'std::unique_ptr<antlr4::atn::ATNConfigSet,std::default_delete<_Ty>>' は __export キーワードを使って class 'antlr4::dfa::DFAState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(56,47): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(56,47): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(56,47): warning C4251:             _Ty=antlr4::atn::ATNConfigSet
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(56,47): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(141): message :  'std::unique_ptr<antlr4::atn::ATNConfigSet,std::default_delete<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(141): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(141): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(141): message :             _Ty=antlr4::atn::ATNConfigSet
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\LexerATNSimulator.h(141): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:  'antlr4::dfa::DFAState::edges': class 'std::unordered_map<size_t,antlr4::dfa::DFAState *,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' は __export キーワードを使って class 'antlr4::dfa::DFAState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:             _Kty=size_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:             _Ty=antlr4::dfa::DFAState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62,49): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :  'std::unordered_map<size_t,antlr4::dfa::DFAState *,std::hash<_Kty>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :             _Kty=size_t,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :             _Ty=antlr4::dfa::DFAState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(62): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(71,54): warning C4251:  'antlr4::dfa::DFAState::lexerActionExecutor': class 'std::shared_ptr<antlr4::atn::LexerActionExecutor>' は __export キーワードを使って class 'antlr4::dfa::DFAState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::LexerActionExecutor>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94,45): warning C4251:  'antlr4::dfa::DFAState::predicates': class 'std::vector<antlr4::dfa::DFAState::PredPrediction *,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::dfa::DFAState' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94,45): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94,45): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94,45): warning C4251:             _Ty=antlr4::dfa::DFAState::PredPrediction *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94,45): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94): message :  'std::vector<antlr4::dfa::DFAState::PredPrediction *,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94): message :             _Ty=antlr4::dfa::DFAState::PredPrediction *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFAState.h(94): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(20,97): warning C4251:  'std::enable_shared_from_this<antlr4::atn::SemanticContext>::_Wptr': class 'std::weak_ptr<_Ty>' は __export キーワードを使って class 'std::enable_shared_from_this<antlr4::atn::SemanticContext>' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(20,97): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(20,97): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(20,97): warning C4251:             _Ty=antlr4::atn::SemanticContext
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(20,97): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :  'std::weak_ptr<_Ty>' の宣言を確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :             _Ty=antlr4::atn::SemanticContext
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\memory(1730): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(44,43): warning C4251:  'antlr4::atn::SemanticContext::NONE': class 'std::shared_ptr<antlr4::atn::SemanticContext>' は __export キーワードを使って class 'antlr4::atn::SemanticContext' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\antlr4-common.h(137): message :  'std::shared_ptr<antlr4::atn::SemanticContext>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(167,44): warning C4251:  'antlr4::atn::SemanticContext::AND::opnds': class 'std::vector<std::shared_ptr<antlr4::atn::SemanticContext>,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::SemanticContext::AND' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(167,44): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(167,44): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(167,44): warning C4251:             _Ty=std::shared_ptr<antlr4::atn::SemanticContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(167,44): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :  'std::vector<std::shared_ptr<antlr4::atn::SemanticContext>,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :             _Ty=std::shared_ptr<antlr4::atn::SemanticContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(190,44): warning C4251:  'antlr4::atn::SemanticContext::OR::opnds': class 'std::vector<std::shared_ptr<antlr4::atn::SemanticContext>,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::SemanticContext::OR' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(190,44): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(190,44): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(190,44): warning C4251:             _Ty=std::shared_ptr<antlr4::atn::SemanticContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\SemanticContext.h(190,44): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :  'std::vector<std::shared_ptr<antlr4::atn::SemanticContext>,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :             _Ty=std::shared_ptr<antlr4::atn::SemanticContext>
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ATNConfigSet.h(72): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParserATNSimulator.h(382,43): warning C4251:  'antlr4::atn::ParserATNSimulator::mergeCache': class 'antlr4::atn::PredictionContextMergeCache' は __export キーワードを使って class 'antlr4::atn::ParserATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\PredictionContext.h(235): message :  'antlr4::atn::PredictionContextMergeCache' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ProfilingATNSimulator.h(24,41): warning C4251:  'antlr4::atn::ProfilingATNSimulator::_decisions': class 'std::vector<antlr4::atn::DecisionInfo,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::atn::ProfilingATNSimulator' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ProfilingATNSimulator.h(24,41): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ProfilingATNSimulator.h(24,41): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ProfilingATNSimulator.h(24,41): warning C4251:             _Ty=antlr4::atn::DecisionInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ProfilingATNSimulator.h(24,41): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParseInfo.h(31): message :  'std::vector<antlr4::atn::DecisionInfo,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParseInfo.h(31): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParseInfo.h(31): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParseInfo.h(31): message :             _Ty=antlr4::atn::DecisionInfo
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\atn\ParseInfo.h(31): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24,80): warning C4251:  'antlr4::dfa::DFA::states': class 'std::unordered_set<antlr4::dfa::DFAState *,antlr4::dfa::DFAState::Hasher,antlr4::dfa::DFAState::Comparer,std::allocator<_Kty>>' は __export キーワードを使って class 'antlr4::dfa::DFA' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24,80): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24,80): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24,80): warning C4251:             _Kty=antlr4::dfa::DFAState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24,80): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24): message :  'std::unordered_set<antlr4::dfa::DFAState *,antlr4::dfa::DFAState::Hasher,antlr4::dfa::DFAState::Comparer,std::allocator<_Kty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24): message :             _Kty=antlr4::dfa::DFAState *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\dfa\DFA.h(24): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46,1): warning C4251:  'antlr4::tree::ParseTreeProperty<V>::_annotations': class 'std::map<antlr4::tree::ParseTree*,V,std::less<_Kty>,std::allocator<std::pair<const _Kty,V>>>' は __export キーワードを使って class 'antlr4::tree::ParseTreeProperty<V>' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46,1): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46,1): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46,1): warning C4251:             _Kty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46,1): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46): message :  'std::map<antlr4::tree::ParseTree*,V,std::less<_Kty>,std::allocator<std::pair<const _Kty,V>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46): message :             _Kty=antlr4::tree::ParseTree *
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(46): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\ParseTreeProperty.h(47): message :  コンパイル対象の クラス テンプレート インスタンス化 'antlr4::tree::ParseTreeProperty<V>' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(591): message :  コンパイル対象の クラス テンプレート インスタンス化 'std::chrono::duration<double,std::ratio<1,1>>' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(169): message :  コンパイル対象の クラス テンプレート インスタンス化 'std::chrono::duration<__int64,std::nano>' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(570): message :  コンパイル対象の クラス テンプレート インスタンス化 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' のリファレンスを確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:  'antlr4::tree::pattern::ParseTreeMatch::_labels': class 'std::map<std::string,std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>,std::less<_Kty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>' は __export キーワードを使って class 'antlr4::tree::pattern::ParseTreeMatch' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:             _Ty=antlr4::tree::ParseTree *,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24,60): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :  'std::map<std::string,std::vector<antlr4::tree::ParseTree *,std::allocator<_Ty>>,std::less<_Kty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :             _Ty=antlr4::tree::ParseTree *,
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :             _Kty=std::string
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreeMatch.h(24): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreePattern.h(95,31): warning C4251:  'antlr4::tree::pattern::ParseTreePattern::_pattern': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::ParseTreePattern' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreePatternMatcher.h(160,23): warning C4251:  'antlr4::tree::pattern::ParseTreePatternMatcher::_start': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::ParseTreePatternMatcher' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreePatternMatcher.h(161,22): warning C4251:  'antlr4::tree::pattern::ParseTreePatternMatcher::_stop': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::ParseTreePatternMatcher' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\ParseTreePatternMatcher.h(162,24): warning C4251:  'antlr4::tree::pattern::ParseTreePatternMatcher::_escape': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::ParseTreePatternMatcher' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\RuleTagToken.h(24,31): warning C4251:  'antlr4::tree::pattern::RuleTagToken::ruleName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::RuleTagToken' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\RuleTagToken.h(31,28): warning C4251:  'antlr4::tree::pattern::RuleTagToken::label': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::RuleTagToken' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\TagChunk.h(77,27): warning C4251:  'antlr4::tree::pattern::TagChunk::_tag': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::TagChunk' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\TagChunk.h(81,29): warning C4251:  'antlr4::tree::pattern::TagChunk::_label': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::TagChunk' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\TextChunk.h(23,27): warning C4251:  'antlr4::tree::pattern::TextChunk::text': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::TextChunk' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\TokenTagToken.h(24,32): warning C4251:  'antlr4::tree::pattern::TokenTagToken::tokenName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::TokenTagToken' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\pattern\TokenTagToken.h(28,28): warning C4251:  'antlr4::tree::pattern::TokenTagToken::label': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::pattern::TokenTagToken' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(58,38): warning C4251:  'antlr4::tree::xpath::XPath::WILDCARD': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::xpath::XPath' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(59,33): warning C4251:  'antlr4::tree::xpath::XPath::NOT': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::xpath::XPath' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(73,22): warning C4251:  'antlr4::tree::xpath::XPath::_path': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::xpath::XPath' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(74,40): warning C4251:  'antlr4::tree::xpath::XPath::_elements': class 'std::vector<antlr4::tree::xpath::XPathElement,std::allocator<_Ty>>' は __export キーワードを使って class 'antlr4::tree::xpath::XPath' にエクスポートしてください。
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(74,40): warning C4251:         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(74,40): warning C4251:         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(74,40): warning C4251:             _Ty=antlr4::tree::xpath::XPathElement
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(74,40): warning C4251:         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(65): message :  'std::vector<antlr4::tree::xpath::XPathElement,std::allocator<_Ty>>' の宣言を確認してください
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(65): message :         with
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(65): message :         [
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(65): message :             _Ty=antlr4::tree::xpath::XPathElement
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPath.h(65): message :         ]
+C:\Users\nakam\Desktop\parsetest\STtoScript\antlr4-runtime\tree\xpath\XPathElement.h(34,26): warning C4251:  'antlr4::tree::xpath::XPathElement::_nodeName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' は __export キーワードを使って class 'antlr4::tree::xpath::XPathElement' にエクスポートしてください。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(4343): message :  'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' の宣言を確認してください
+  コード生成しています。
+  2 of 2099 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    82 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  STtoScript.vcxproj -> C:\Users\nakam\Desktop\parsetest\STtoScript\STtoScript\Release\STtoScript.exe
